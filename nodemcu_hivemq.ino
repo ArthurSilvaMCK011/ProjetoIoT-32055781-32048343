@@ -1,5 +1,5 @@
 
-#include <ESP8266WiFi.h>  // Pins for board ESP8266 Wemos-NodeMCU
+#include <ESP8266WiFi.h>
 #include <PubSubClient.h>
 #include <WiFiClientSecure.h>
 
